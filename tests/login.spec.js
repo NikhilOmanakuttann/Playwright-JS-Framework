@@ -4,7 +4,7 @@ const { LoginPage } = require('../pages/LoginPage');
 
 const testData =[
 
-  {username: 'standard_user', password: 'secret_sauce', expectedURL: 'wrong_page.html'},
+  {username: 'standard_user', password: 'secret_sauce', expectedURL: 'inventory.html'},
   {username: 'problem_user', password: 'secret_sauce', expectedURL: 'inventory.html'},
   {username: 'locked_out_user', password: 'secret_sauce', expectedURL: '/'}
 ];
