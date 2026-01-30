@@ -7,7 +7,7 @@
 ##  Project Overview
 This repository contains a robust test automation framework built from scratch using **Playwright** and **JavaScript**. It validates critical user journeys for an e-commerce platform (SauceDemo), focusing on stability, speed, and continuous integration.
 
-## 🛠 Tech Stack
+##  Tech Stack
 * **Language:** JavaScript (Node.js)
 * **Framework:** Playwright
 * **Design Pattern:** Page Object Model (POM)
