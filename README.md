@@ -5,7 +5,9 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=github-actions)
 
 ##  Project Overview
-This repository contains a robust test automation framework built from scratch using **Playwright** and **JavaScript**. It validates critical user journeys for an e-commerce platform (SauceDemo), focusing on stability, speed, and continuous integration.
+
+End-to-end test automation built with Playwright and JavaScript, structured using Page Object Model. Tests run automatically on every push via Github actions CI/CD.
+
 
 ##  Tech Stack
 * **Language:** JavaScript (Node.js)
@@ -25,7 +27,7 @@ This repository contains a robust test automation framework built from scratch u
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/NikhilOmanakuttann/Playwright-JS-Framework.git](https://github.com/NikhilOmanakuttann/Playwright-JS-Framework.git)
+    git clone https://github.com/NikhilOmanakuttann/Playwright-JS-Framework.git
     ```
 2.  **Install dependencies:**
     ```bash
